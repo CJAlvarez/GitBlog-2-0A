@@ -1,0 +1,14 @@
+#com {
+    color: maroon;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: white;
+}
+
+h1:hover {
+    cursor: pointer;
+    transition: 0.3s;
+    opacity: 0.6;
+}

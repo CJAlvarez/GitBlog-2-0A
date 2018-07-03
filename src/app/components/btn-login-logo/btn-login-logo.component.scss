@@ -1,0 +1,30 @@
+
+.GB-animation-hover:hover {
+    cursor: pointer;
+    opacity: 0.6; 
+}
+
+.GB-animation-hover {
+    transition: 0.3s;
+}
+
+.GB-color-maroon {
+    color: maroon;
+}
+
+h1 {
+    object-position: center; 
+    text-align: center; 
+    margin-top: 10%;
+}
+
+h3 {
+    object-position: center;
+    text-align: center;
+}
+
+img {
+    position: relative; 
+    top: 50%; 
+    left: 36.5%;
+}
